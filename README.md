@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Currently my major personal project is **OMS** - Orchard Management System.
+Currently my major personal project is **OMS** - Orchard Management System. 🌳🍎🍓
 
 ❔ *What is the purpose of this system?*  
 📌The goal is to provide orchard's owner with a automated tool that serves and stores data about certain events.
