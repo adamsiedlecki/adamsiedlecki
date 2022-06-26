@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**adamsiedlecki/adamsiedlecki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently my major personal project is **OMS** - Orchard Management System.
 
-Here are some ideas to get you started:
+❔ *What is the purpose of this system?*  
+📌The goal is to provide orchard's owner with a automated tool that serves and stores data about certain events.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+❔ *What events do you mean?*  
+📌Events like reaching specific temperature, humidity and opening or closing gates to archard.
+
+You can observe my development plans [here, on the public read-only Miro board](https://miro.com/app/board/uXjVOqNl2k0=/?share_link_id=800092555950)
+
+Components that are present in my repositories:
+- OTM - [Orchard Temperature Monitor 🌡️](https://github.com/adamsiedlecki/OTM)
+- OBM - [Orchard Broadcast Monitor 📡](https://github.com/adamsiedlecki/OBM)
