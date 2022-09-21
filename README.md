@@ -14,3 +14,4 @@ Components that are present in my repositories:
 - OTM - [Orchard Temperature Monitor 🌡️](https://github.com/adamsiedlecki/OTM)
 - OBM - [Orchard Broadcast Monitor 📡](https://github.com/adamsiedlecki/OBM)
 - ODG - [Orchard Document Generator 📈](https://github.com/adamsiedlecki/ODG)
+- OHM - [Orchard Humidity Monitor 💧](https://github.com/adamsiedlecki/OHM)
