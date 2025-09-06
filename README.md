@@ -1,7 +1,7 @@
 ###
 
 YT channel: https://www.youtube.com/@adamsiedlecki
-- apple parameters https://www.youtube.com/watch?v=NB5UDVPFAeE
+- apple parameters with computer vision https://www.youtube.com/watch?v=NB5UDVPFAeE
 - tractor driving app https://www.youtube.com/watch?v=SfN2KcWCbvo
 
 Key project: OMS (Orchard Management System)
