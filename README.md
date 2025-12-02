@@ -6,5 +6,5 @@ YT channel: https://www.youtube.com/@adamsiedlecki
 
 Key project: OMS (Orchard Management System)
 - Miro board https://miro.com/app/board/uXjVOqNl2k0=/?share_link_id=621332633941
-- main page https://otm.asiedlecki.net/ (can be unavailable sometimes, fibre connection is on its way)
+- main page https://owocny.com/ (can be unavailable sometimes, fibre connection is on its way)
 - example colab notebook https://colab.research.google.com/drive/19_Kev00vMDMYkU5bOnME66q8pcz9Xvud?usp=sharing
